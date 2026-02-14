@@ -1,2 +1,4 @@
 ﻿User-agent: *
 Disallow: /
+
+Sitemap: https://sedot-wc-subang.pages.dev/sitemap-index.xml
